@@ -3,3 +3,5 @@ This is from gittest2
 This is from gittest1
 This is from gittest1 again
 This is 18h49 now in Hanoi
+
+This is feature 3 from gittest2
